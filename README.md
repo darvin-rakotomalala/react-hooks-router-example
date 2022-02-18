@@ -15,4 +15,5 @@ React est une bibliothèque JavaScript pour créer des interfaces utilisateur. N
 ---
 Lancer l'applications avec la commande `yarn start`
 <br/>
-Voilà ! nous avons vu un simple exemple de React Router.
+<br/>
+Voilà ! nous avons vu un simple exemple de React Router Hooks.
